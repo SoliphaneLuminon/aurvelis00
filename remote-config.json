@@ -1,0 +1,13 @@
+{
+  "schema": "aurvelis.remote.v1",
+  "revision": "20261025011408",
+  "announcement": {
+    "enabled": true,
+    "title": "Aurvelis",
+    "body": "功能正在完善中，部分能力可能还不够完整。遇到问题随时反馈，我会持续补上。",
+    "button": "开始使用"
+  },
+  "texts": {
+    
+  }
+}
