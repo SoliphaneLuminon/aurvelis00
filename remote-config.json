@@ -1,6 +1,6 @@
 {
   "schema": "aurvelis.remote.v1",
-  "revision": "20261027181000",
+  "revision": "20261028073000",
   "announcement": {
     "enabled": true,
     "title": "Aurvelis",
