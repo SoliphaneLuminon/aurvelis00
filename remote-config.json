@@ -1,13 +1,11 @@
 {
   "schema": "aurvelis.remote.v1",
-  "revision": "20261026234754",
+  "revision": "20261027181000",
   "announcement": {
     "enabled": true,
     "title": "Aurvelis",
-    "body": "功能正在完善中，部分能力可能还不够完整。遇到问题随时反馈，我会持续补上。下载链接默认为Github仓库，若网络不好请移步夸克网盘；AI智能体领域功能不稳定，慎用。",
+    "body": "功能正在完善中，部分能力可能还不够完整。遇到问题随时反馈，我会持续补上。",
     "button": "开始使用"
   },
-  "texts": {
-    
-  }
+  "texts": {}
 }
