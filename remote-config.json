@@ -1,9 +1,12 @@
 {
-  "revision": "20261101234456",
+  "revision": "20261102204500",
   "announcement": {
+    "id": "",
     "title": "",
     "body": "",
-    "url": ""
+    "level": "info",
+    "linkText": "",
+    "linkUrl": ""
   },
   "texts": {}
 }
